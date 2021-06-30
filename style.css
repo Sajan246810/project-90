@@ -1,5 +1,5 @@
 #body_1{
-    background-image: url("math.jpg");
+    background-image: "math.jpg";
     background-size: cover;
 };
 
